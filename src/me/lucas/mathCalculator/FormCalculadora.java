@@ -1,4 +1,4 @@
-package exercicio01;
+package me.lucas.mathCalculator;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;

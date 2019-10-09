@@ -1,4 +1,4 @@
-package exercicio01;
+package me.lucas.mathCalculator;
 
 public class Cerebro {
 
